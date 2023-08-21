@@ -6,7 +6,7 @@ Undergraduate Thesis published by the Seoul National University Department of Ec
 
 ## Motivation
 
-Comparative analysis of international economies during two periods of extremely elevated volatility: the Great Recession of 2008 and the Coronavirus Recession.
+Comparative analysis of international economies during two periods of elevated volatility: the Great Recession of 2008 and the Coronavirus Recession.
 
 ## Dataset
 
