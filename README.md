@@ -18,7 +18,13 @@ Intraday returns (January 2007 - April 2020)
 
 ## Methodology
 
-- Volatility Forecasting: **Skewed Student’s t ARIMA-GARCH model**, **Parametric Value-at-Risk (VaR)**
+- Volatility Forecasting:
+  - **Skewed Student’s t ARIMA-GARCH model**
+    - Augmented Dickey-Fuller Test for Stationarity
+    - Jarque-Bera Test of Normality
+    - Box-Ljung Test of Autocorrelation
+    - Breusch-Pagan Test for Heteroskedasticity
+  - **Parametric Value-at-Risk (VaR)**
 - Risk Spillover: **Granger Causality**
 
 ## Conclusion
