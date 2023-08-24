@@ -1,6 +1,6 @@
 # Modeling Volatility and Risk Spillover Between the Financial Markets of US and China Using GARCH Value-at-Risk Forecasting and Granger Causality
 
-Undergraduate Thesis published by the Seoul National University Department of Economics (2020).
+Undergraduate Thesis published by the Seoul National University Department of Economics (2020). (**[Read here](https://github.com/MajorLift/volatility-modeling-python-datasci/blob/master/Thesis.pdf)**)
 
 > **Keywords**: VaR(Value at Risk), ARIMA-GARCH model, Risk management
 
