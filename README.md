@@ -16,6 +16,15 @@ Intraday returns (January 2007 - April 2020)
 - Chinese Yuan to USD exchange rate
 > Source: Yahoo Finance
 
+## Libraries
+
+- NumPy
+- Pandas
+- Statsmodels
+- SciPy
+- Seaborn
+- Matplotlibs
+
 ## Methodology
 
 - Volatility Forecasting:
