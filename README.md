@@ -1,6 +1,6 @@
 # Modeling Volatility and Risk Spillover Between the Financial Markets of US and China Using GARCH Value-at-Risk Forecasting and Granger Causality
 
-Undergraduate thesis, Department of Economics, Seoul National University (2020).
+Undergraduate thesis, Department of Economics, Seoul National University (June 2020).
 **[Read the thesis](https://github.com/MajorLift/volatility-modeling-python-datasci/blob/master/Thesis.pdf)** · **[Analysis notebook](https://github.com/MajorLift/volatility-modeling-python-datasci/blob/master/Thesis_code.ipynb)**
 
 *Editorially revised 2026: byline, numeric presentation, and prose. Results, methods, figures, and findings are unchanged from the submitted version.*
