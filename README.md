@@ -1,6 +1,7 @@
 # Modeling Volatility and Risk Spillover Between the Financial Markets of US and China Using GARCH Value-at-Risk Forecasting and Granger Causality
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21506849.svg)](https://doi.org/10.5281/zenodo.21506849)
+[![Thesis DOI](https://img.shields.io/badge/Thesis%20DOI-10.5281%2Fzenodo.21507695-blue)](https://doi.org/10.5281/zenodo.21507695)
+[![Code DOI](https://img.shields.io/badge/Code%20DOI-10.5281%2Fzenodo.21506848-blue)](https://doi.org/10.5281/zenodo.21506848)
 
 Undergraduate thesis, Department of Economics, Seoul National University (June 2020).
 **[Read the thesis](https://github.com/MajorLift/volatility-modeling-python-datasci/blob/master/Thesis.pdf)** · **[Analysis notebook](https://github.com/MajorLift/volatility-modeling-python-datasci/blob/master/Thesis_code.ipynb)**
@@ -69,7 +70,9 @@ Holden-Day.
 Suh, Jongsun (2020). Modelling Volatility and Risk Spillover Between the Financial
 Markets of US and China Using GARCH Value-at-Risk Forecasting and Granger Causality.
 Undergraduate thesis, Department of Economics, Seoul National University.
-https://doi.org/10.5281/zenodo.21506849
+https://doi.org/10.5281/zenodo.21507695
 ```
 
 ORCID: [0009-0003-5053-4246](https://orcid.org/0009-0003-5053-4246)
+
+The thesis and the analysis code are archived separately: the DOI above cites the thesis; [10.5281/zenodo.21506848](https://doi.org/10.5281/zenodo.21506848) cites this repository.
