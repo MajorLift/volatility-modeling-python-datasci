@@ -1,0 +1,28 @@
+{
+  "title": "Modelling Volatility and Risk Spillover Between the Financial Markets of US and China Using GARCH Value-at-Risk Forecasting and Granger Causality",
+  "upload_type": "publication",
+  "publication_type": "thesis",
+  "publication_date": "2020-06-01",
+  "version": "Editorially revised 2026",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "thesis_university": "Seoul National University, Department of Economics",
+  "creators": [
+    {
+      "name": "Suh, Jongsun",
+      "affiliation": "Seoul National University"
+    }
+  ],
+  "keywords": [
+    "GARCH",
+    "ARIMA",
+    "value-at-risk",
+    "Granger causality",
+    "volatility forecasting",
+    "risk spillover",
+    "financial econometrics",
+    "US-China markets"
+  ],
+  "description": "<p>Volatility forecasting and risk spillover evaluation is performed on a dataset consisting of the intraday returns from January 2007 to April 2020 of the S&amp;P500, SSE Composite Index, and the Chinese Yuan to USD exchange rate. The chosen date range includes both the Great Recession of 2008 and the more recent Coronavirus Recession, offering a rare opportunity for comparative analysis of those two periods of elevated volatility against the overall backdrop of a strong, sustained bull market. For volatility forecasting, a Skewed Student's t ARIMA-GARCH model is used to estimate and forecast Value-at-Risk series, which are in turn used to test for the presence of Granger Causality between the US and Chinese financial markets. The GARCH-VaR method exhibits a high fit to historical data, and while a considerable degree of risk spillover is observed between the US and Chinese economies throughout the date range, its predictive power is shown to markedly diminish during the two Recession periods.</p><p><em>Undergraduate thesis, Department of Economics, Seoul National University, completed June 2020. Editorially revised 2026: byline, numeric presentation, and prose only. Results, methods, figures, and findings are unchanged from the submitted version. This deposit archives the thesis together with the analysis notebooks that produced it.</em></p>"
+}
